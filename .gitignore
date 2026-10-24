@@ -1,0 +1,7 @@
+﻿*.class
+build/
+dist/
+built-jar.properties
+nbproject/private/
+*.log
+.env
